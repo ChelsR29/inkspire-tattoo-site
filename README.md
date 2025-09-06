@@ -30,6 +30,8 @@ Inkspire Studio is designed to give tattoo artists and studios a professional on
 ## 📸 Screenshots
 <img width="1440" height="900" alt="Tattoo Artist Website Example" src="https://github.com/user-attachments/assets/2a055764-3dcc-49dd-8c57-2938d71bda69" />
 
+<img width="1440" height="900" alt="Tattoo Booking Page" src="https://github.com/user-attachments/assets/d86f072a-d9ab-4186-bfa3-f3bc95029b1f" />
+
 ---
 
 This project is a sample of freelance work that can be tailored to your business or portfolio. Reach out if you'd like a site like this designed for you!
